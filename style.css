@@ -1,0 +1,92 @@
+
+@media only screen and (max-width: 411px){
+    .title-one{
+        
+        font-size: 25px !important;
+    }
+    .nav-brand{
+      font-size: 20px !important;
+    }
+}
+
+/* navigation */
+.nav-brand{
+  font-family: 'Dancing Script', cursive;
+  font-size: 3em;
+}
+.nav-ul{
+    margin-left: auto;
+  }
+  
+  .nav-brand{
+    text-decoration: none;
+    font-size: 20px;
+    
+  }
+  .bold{
+    font-weight: 700;
+  }
+  .navbar{
+      opacity: 1 !important;
+  }
+  .ul-list{
+    color: rgb(185, 183, 183) !important;
+    
+  }
+  .ul-list:hover{
+    color: #fff !important;
+  }
+ .fa-bars{
+   color:#fff; 
+   font-size:28px;
+ }
+ /* header*/
+.header-container{
+    width: 100vw;
+  }
+  .header-container{
+      position: absolute;
+      
+  }
+
+  /* background  */
+  .mask{
+    background-color: rgba(46, 42, 42, 0.623);
+  }
+  .bg-image{
+    background: url(https://www.pixelstalk.net/wp-content/uploads/2016/11/Black-and-White-Brooklyn-Bridge-Hi-Res.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover !important;
+  }
+
+  .first-btn {
+      border-radius: 25px !important;
+  }
+  .first-btn:hover{
+    background-color: rgba(109, 230, 109, 0.144);
+  }
+  .cont-first{
+      min-height: 500px;
+      margin-top: 80px;
+      
+  }
+  /* cards */
+  .card-row{
+      text-align: center;
+  }
+  .card-img-top{
+      max-width: 200px !important;
+  }
+  .image-top{
+      max-width: 210px !important;
+  }
+  .learn-more{
+    font-size: .75em !important;
+    font-weight: 400 !important;
+  }
+  /* footer */
+  .inner-footer{
+    background-color: rgb(3, 97, 56);
+  }
